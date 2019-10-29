@@ -1,0 +1,277 @@
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans Regular'), local('OpenSans-Regular'), url(https://fonts.gstatic.com/s/opensans/v17/mem8YaGs126MiZpBA-UFVZ0e.ttf) format('truetype');
+}
+.container {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  right: 60px;
+  margin: 0 auto;
+  top: 1300px;
+  left:-40%;
+  z-index: 10;
+
+}
+.div-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.div-img .img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 230%;
+  height: 2500%;
+  border-radius: 600px;
+  -webkit-border-radius: 950px;
+  -moz-border-radius: 150px;
+  transform: translate(0px);
+  -ms-transform: translate(0px);
+  -moz-transform: translate(0px);
+  -webkit-transform: translate(0px);
+  -o-transform: translate(0px);
+  -webkit-transition: all 500ms ease-in-out;
+  -moz-transition: all 500ms ease-in-out;
+  -ms-transition: all 500ms ease-in-out;
+  -o-transition: all 500ms ease-in-out;
+}
+.div-img .text  {
+  font-family: 'Open Sans';
+  position: absolute;
+  z-index: -2;
+  display: block;
+  height: 100%;
+  width: 420px;
+  top: 50%;
+  right: -245px;
+  padding-right: 5px;
+ text-align: justify
+}
+.div-img:hover .img {
+  transform: translate(340px, 0px);
+  -ms-transform: translate(0px, 0px);
+  -moz-transform: translate(740px, 0px);
+  -webkit-transform: translate(480px, 0px);
+  -o-transform: translate(340px, 0px);
+}
+.containerr {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  right: 60px;
+  margin: 0 auto;
+  top:1740px;
+  left:15%;
+  z-index: 10;
+
+}
+.div-imgr {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.div-imgr .imgr {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 230%;
+  height: 2500%;
+  border-radius: 600px;
+  -webkit-border-radius: 990px;
+  -moz-border-radius: 150px;
+  transform: translate(0px);
+  -ms-transform: translate(0px);
+  -moz-transform: translate(0px);
+  -webkit-transform: translate(0px);
+  -o-transform: translate(0px);
+  -webkit-transition: all 500ms ease-in-out;
+  -moz-transition: all 500ms ease-in-out;
+  -ms-transition: all 500ms ease-in-out;
+  -o-transition: all 500ms ease-in-out;
+}
+.div-imgr .textr  {
+  font-family: 'Open Sans';
+  position: absolute;
+  z-index: -2;
+  display: block;
+  height: auto;
+  width: 410px;
+  top: 25%;
+  right: -255px;
+  padding-right: 5px;
+  text-align: justify
+}
+.div-imgr:hover .imgr {
+  transform: translate(340px, 0px);
+  -ms-transform: translate(0px, 0px);
+  -moz-transform: translate(740px, 0px);
+  -webkit-transform: translate(-480px, 0px);
+  -o-transform: translate(340px, 0px);
+}
+.containerrr {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  right: 60px;
+  margin: 0 auto;
+  top: 2170px;
+  left:-40%;
+  z-index: 10;
+
+}
+.div-imgrrr {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.div-imgrrr .imgrrr {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 230%;
+  height: 2500%;
+  border-radius: 600px;
+  -webkit-border-radius: 950px;
+  -moz-border-radius: 150px;
+  transform: translate(0px);
+  -ms-transform: translate(0px);
+  -moz-transform: translate(0px);
+  -webkit-transform: translate(0px);
+  -o-transform: translate(0px);
+  -webkit-transition: all 500ms ease-in-out;
+  -moz-transition: all 500ms ease-in-out;
+  -ms-transition: all 500ms ease-in-out;
+  -o-transition: all 500ms ease-in-out;
+}
+.div-imgrrr .textrrr  {
+  font-family: 'Open Sans';
+  position: absolute;
+  z-index: -2;
+  display: block;
+  height: 110%;
+  width: 420px;
+  top: 50%;
+  right: -245px;
+  padding-right: 5px;
+  text-align: justify
+}
+.div-imgrrr:hover .imgrrr {
+  transform: translate(340px, 0px);
+  -ms-transform: translate(0px, 0px);
+  -moz-transform: translate(740px, 0px);
+  -webkit-transform: translate(480px, 0px);
+  -o-transform: translate(340px, 0px);
+}
+.container2 {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  right: 60px;
+  margin: 0 auto;
+  top:2600px;
+  left:15%;
+  z-index: 10;
+
+}
+.div-img2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.div-img2 .img2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 230%;
+  height: 2500%;
+  border-radius: 600px;
+  -webkit-border-radius: 990px;
+  -moz-border-radius: 150px;
+  transform: translate(0px);
+  -ms-transform: translate(0px);
+  -moz-transform: translate(0px);
+  -webkit-transform: translate(0px);
+  -o-transform: translate(0px);
+  -webkit-transition: all 500ms ease-in-out;
+  -moz-transition: all 500ms ease-in-out;
+  -ms-transition: all 500ms ease-in-out;
+  -o-transition: all 500ms ease-in-out;
+}
+.div-img2 .text2  {
+  font-family: 'Open Sans';
+  position: absolute;
+  z-index: -2;
+  display: block;
+  height: auto;
+  width: 410px;
+  top: 25%;
+  right: -255px;
+  padding-right: 5px;
+  text-align: justify
+}
+.div-img2:hover .img2 {
+  transform: translate(340px, 0px);
+  -ms-transform: translate(0px, 0px);
+  -moz-transform: translate(740px, 0px);
+  -webkit-transform: translate(-480px, 0px);
+  -o-transform: translate(340px, 0px);
+}
+.container3 {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  right: 60px;
+  margin: 0 auto;
+  top: 3050px;
+  left:-40%;
+  z-index: 10;
+
+}
+.div-img3 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.div-img3 .img3 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 230%;
+  height: 2500%;
+  border-radius: 600px;
+  -webkit-border-radius: 950px;
+  -moz-border-radius: 150px;
+  transform: translate(0px);
+  -ms-transform: translate(0px);
+  -moz-transform: translate(0px);
+  -webkit-transform: translate(0px);
+  -o-transform: translate(0px);
+  -webkit-transition: all 500ms ease-in-out;
+  -moz-transition: all 500ms ease-in-out;
+  -ms-transition: all 500ms ease-in-out;
+  -o-transition: all 500ms ease-in-out;
+}
+.div-img3 .text3  {
+  font-family: 'Open Sans';
+  position: absolute;
+ font-size: 13.5px;
+  z-index: -2;
+  display: block;
+  height: 110%;
+  width: 420px;
+  top:36%;
+  right: -260px;
+  padding-right: 5px;
+  text-align: justify
+}
+.div-img3:hover .img3 {
+  transform: translate(340px, 0px);
+  -ms-transform: translate(0px, 0px);
+  -moz-transform: translate(740px, 0px);
+  -webkit-transform: translate(480px, 0px);
+  -o-transform: translate(340px, 0px);
+}
