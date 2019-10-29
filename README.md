@@ -1,2 +1,0 @@
-# Domotica-hogar-inteligente
-Domotica
